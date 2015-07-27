@@ -1,5 +1,7 @@
 # Grids
 
+Make your HTML look like:
+
 Preview:
 ![img/example.png](img/example.png)
 

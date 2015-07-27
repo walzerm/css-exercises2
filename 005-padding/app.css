@@ -20,15 +20,3 @@ section {
 }
 
 /* Code Under This Line */
-
-div {
-  padding: 20px;
-}
-
-.special {
-  padding-left: 20px;
-}
-
-.special-alt {
-  padding: 20px 50px 50px 50px;
-}
