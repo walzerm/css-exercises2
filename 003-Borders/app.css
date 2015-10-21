@@ -1,5 +1,27 @@
 img {
   max-width: 100%;
 }
-
+.red {
+	border-style: solid;
+	border-color: red;
+	border-width: 10px;
+}
+.blue {
+	border-style: solid;
+	border-color: blue;
+	border-width: 10px;
+}
+.green {
+	border-left-style: solid;
+	border-left-color: green;
+	border-left-width: 10px;
+}
+.flag {
+	border-style: solid;
+	border-right-color: blue;
+	border-left-color: blue;
+	border-top-color: red;
+	border-bottom-color: red;
+	border-width: 5px;
+}
 /* Code Under This Line */
