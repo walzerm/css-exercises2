@@ -8,3 +8,25 @@ img {
   max-width: 100%;
 }
 /* Code Under This Line */
+div {
+	padding: 20px;
+}
+.a {
+	
+	background-color: #FFED6C;
+	margin-right: auto;
+	margin-left: auto;
+	height: 50%;
+	width: 50%;
+	
+
+}
+.b {
+	background-color: #FF6D51;
+}
+.c {
+	background-color: #222222;
+}
+.d {
+	background-color: #74BADC;
+}
