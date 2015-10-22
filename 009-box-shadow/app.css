@@ -11,6 +11,14 @@ img {
   width: 100px;
   height: 100px;
   margin-bottom: 20px;
+
 }
 
 /* Your Code Goes Under This Line */
+.subtle {
+	box-shadow: 1px 1px 8px 1px black;
+	opacity: 0.1;
+}
+.fun {
+	box-shadow: 5px 5px 5px 5px blue, -5px -5px 5px 5px green, inset 5px 5px 5px red;
+}
