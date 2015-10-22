@@ -31,4 +31,29 @@ h3 {
   background: #222;
 }
 
+
 /* Code Under This Line */
+.two .column {
+  width: 50%;
+  float: left;
+}
+.three .column {
+  width: 33.33333%;
+  float: left;
+}
+.four .column {
+  width: 25%;
+  float: left;
+}
+.five .column {
+  width: 20%;
+  float: left;
+}
+.six .column {
+  width: 16.666666%;
+  float: left;
+}
+
+
+
+
