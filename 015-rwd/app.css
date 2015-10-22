@@ -11,17 +11,17 @@ body {
 
 .container {
   clear: both;
-  width: 960px;
+  max-width: 100%;
   margin: 0 auto;
 }
 
 .sidebar {
-  width: 300px;
+  width: 31.2%;
   float: left;
 }
 
 .posts {
-  width: 660px;
+  width: 68.7%;
   float: left;
   line-height: 1.5;
 }
