@@ -12,15 +12,18 @@ img {
   width: 100%;
 }
 
-div {
+.column {
   background: white;
   color: #222;
   padding: 20px;
+
+
 }
 
-.column {
+.quarter {
   float: left;
   width: 25%;
+
 }
 
 /* Your Code Goes Under This Line */
